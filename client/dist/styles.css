@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-weight: 400;
+  color:snow
+}
+
+.username-image {
+  display: flex;
+  flex-direction: row;
+}
+
+h3 {
+  width: 200px;
+  align-self: center;
+}
+
+.repo {
+  margin: 8px 0;
+  width: 300px;
+}
+
+.repo-list-container {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.repo-link {
+  text-decoration: none;
+  width: 300px;
+  margin-bottom: 8px;
+}
+
+
+.github-avatar {
+  width: 100px;
+  height: auto;
+}
